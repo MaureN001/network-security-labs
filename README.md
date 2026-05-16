@@ -4,18 +4,19 @@
 
 ## Содержание
 
-### 01 — Nmap / Metasploitable
+### [01 — Nmap / Metasploitable](./01-nmap-metasploitable)
 Лабораторная практика по сканированию уязвимой машины Metasploitable с использованием Nmap и Kali Linux.
 
-### 02 — Wireshark Home Network Analysis
+### 02 — [02 — Wireshark Home Network Analysis](./02-wireshark-home-network)
 Анализ сетевого трафика в домашней сети: DNS, TCP, ICMP, ARP и взаимодействие клиентских устройств с точкой доступа.
 
-### 03 — VPS / VPN Infrastructure
+### [03 — VPS / VPN Infrastructure](./03-vps-vpn-infrastructure)
 Практика настройки VPS-серверов на Ubuntu 24.04, VPN-инфраструктуры, Xray/VLESS, 3x-ui, Marzban и AmneziaVPN.
 
-### 04 — Medical LAN Design
+### [04 — Medical LAN Design](./04-medical-lan-design)
 Учебный проект ЛВС медицинского учреждения с MMF-магистралью, VLAN-сегментацией и расчётом сетевой нагрузки.
 
 ## ВАЖНО!!!
 
 В репозитории не публикуются реальные IP-адреса, домены, ключи, токены, пароли и персональные данные.
+
