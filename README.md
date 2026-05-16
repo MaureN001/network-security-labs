@@ -7,7 +7,7 @@
 ### [01 — Nmap / Metasploitable](./01-nmap-metasploitable)
 Лабораторная практика по сканированию уязвимой машины Metasploitable с использованием Nmap и Kali Linux.
 
-### 02 — [02 — Wireshark Home Network Analysis](./02-wireshark-home-network)
+### [02 — Wireshark Home Network Analysis](./02-wireshark-home-network)
 Анализ сетевого трафика в домашней сети: DNS, TCP, ICMP, ARP и взаимодействие клиентских устройств с точкой доступа.
 
 ### [03 — VPS / VPN Infrastructure](./03-vps-vpn-infrastructure)
